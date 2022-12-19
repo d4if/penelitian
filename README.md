@@ -44,29 +44,9 @@ C.7 Penelitian
 | i      | 79       | 7.5 | 1 | 7.5 [PENINGKATAN] Keterlaksanaan proses optimalisasi terkait penelitian DTPR. | 7.5 [PENINGKATAN] Keterlaksanaan proses optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR. | Terlaksananya proses optimalisasi secara sangat efektif (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR disertai bukti yang sahih. |
 {: .tablelines}
 
-## 7.1 [PENETAPAN] Ketersediaan kebijakan, standar, IKU dan IKT yang berkaitan dengan penelitian DTPR
-
-### A. Ketersediaan kebijakan, standar, IKU dan IKT yang berkaitan dengan penelitian DTPR terkait keberadaan lembaga penelitian
-
-### B. Ketersediaan dokumen pengelolaan penelitian yang lengkap
-
-### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
-
-### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
-
-## 7.2 [PELAKSANAAN] Keterlaksanaan kebijakan dan standar terkait penelitian DTPR
-
-### A. Keterlaksanaan proses pengelolaan lembaga penelitian DTPR terkait proses pengelolaan lembaga penelitian DTPR
-
-### B. Keterlaksanaan pengelolaan penelitian dengan dokumen yang lengkap
-
-### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
-
-### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
-
-## 7.3 [EVALUASI] Keterlaksanaan evaluasi mengenai kebijakan dan ketercapaian standar (IKU dan IKT) terkait penelitian DTPR
-
-## 7.4 [PENGENDALIAN] Ketersediaan dokumen tindak lanjut dan implementasi terkait penelitian DTPR
-
-## 7.5 [PENINGKATAN] Keterlaksanaan proses optimalisasi terkait penelitian DTPR
-
+## Dokumen Penelitian
+- [PENETAPAN](penetapan/README.md)
+- [PELAKSANAAN](pelaksanaan/README.md)
+- [EVALUASI](evaluasi/README.md)
+- [PENGENDALIAN](pengendalian/README.md)
+- [PENINGKATAN](peningkatan/README.md)

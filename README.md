@@ -4,9 +4,7 @@ C.7 Penelitian
 ## Matriks Peniliain Kinerja Program Studi Kriteria 7 Penelitian
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 
-
-
-i | 69 | 7.1 | 0,5 | 7.1 [PENETAPAN]
+|i | 69 | 7.1 | 0,5 | 7.1 [PENETAPAN]
 A. Ketersediaan
 kebijakan, standar, IKU
 dan IKT yang berkaitan

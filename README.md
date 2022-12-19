@@ -3,7 +3,7 @@ C.7 Penelitian
 
 ## Matriks Peniliain Kinerja Program Studi Kriteria 7 Penelitian
 
-### [PENETAPAN]
+### PENETAPAN
 
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 
@@ -13,7 +13,7 @@ C.7 Penelitian
 | i      | 72       |       | 0.5       | D. Ketersediaan mekanisme monitoring kesesuaian penelitian DTPR. | D. Ketersediaan mekanisme monitoring kesesuaian penelitian DTPR dengan peta jalan, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan Program Studi.  | Tersedianya mekanisme monitoring kesesuaian penelitian DTPR dengan peta jalan, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan Program Studi, disertai bukti yang sahih dan sangat lengkap. |
 {: .tablelines}
 
-### [PELAKSANAAN]
+### PELAKSANAAN
 
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 
@@ -23,21 +23,21 @@ C.7 Penelitian
 | i      | 76       |     | 0.5 | D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS. | D. Keterlaksanaan monitoring kesesuaian penelitian DTPR dengan Rencana Induk Penelitian, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan Program Studi. | D. Keterlaksanaan monitoring kesesuaian penelitian DTPR dengan Rencana Induk Penelitian, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan Program Studi, secara sangat efektif disertai bukti yang sahih. |
 {: .tablelines}
 
-### [EVALUASI]
+### EVALUASI
 
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 
 | i      | 77       | 7.3 | 1 | 7.3 [EVALUASI] Keterlaksanaan evaluasi mengenai kebijakan dan ketercapaian standar (IKU dan IKT) terkait penelitian DTPR. | 7.3 [EVALUASI] Keterlaksanaan evaluasi mengenai kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemu-kenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan penelitian DTPR , termasuk survei kepuasan DTPR terhadap pengelolaan kegiatan penelitian. | Terlaksananya evaluasi secara berkala dan sangat efektif mengenai kebijakan dan ketercapaian standar (IKU dan IKT) sehingga dapat menemu-kenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan penelitian DTPR , termasuk survei kepuasan DTPR terhadap pengelolaan kegiatan penelitian. |
 {: .tablelines}
 
-### [PENGENDALIAN]
+### PENGENDALIAN
 
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 
 | i      | 78       | 7.4 | 1 | 7.4 [PENGENDALIAN] Ketersediaan dokumen tindak lanjut dan implementasi terkait penelitian DTPR. | 7.4 [PENGENDALIAN] Ketersediaan dokumen tindak lanjut dan implementasi (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR. | Tersedianya dokumen tindak lanjut dan implementasi yang sangat lengkap (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR. |
 {: .tablelines}
 
-### [PENINGKATAN]
+### PENINGKATAN
 
 | Jenis      | No. Urut | No. Butir | Boot dari 400 | Element Penilaian LAM | Deskriptor | Sangat Baik =4|
 | ---------- | -------- | --------- | ------------- | --------------------- | ---------- | ------------- | 

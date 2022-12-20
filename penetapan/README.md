@@ -116,6 +116,8 @@ Dokumen Bukti :
 - [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
 - [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
 
 Standar Penelitian Poltekpos Terdiri dari:
 
@@ -138,6 +140,8 @@ Dokumen Bukti :
 - [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
 - [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
 
 Standar Penelitian Poltekpos Terdiri dari:
 

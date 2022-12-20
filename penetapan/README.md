@@ -110,4 +110,44 @@ Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan 
 
 ### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
 
+Dokumen Bukti :
+
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+
+Standar Penelitian Poltekpos Terdiri dari:
+
+1. Standar Hasil Penelitian
+2. Standar Isi Penelitian
+3. Standar Proses Penelitian
+4. Standar Penilaian Penelitian
+5. Standar Peneliti
+6. Standar Pengelolaan Penelitian
+7. Standar Sarana Prasarana Penelitian
+8. Standar Pendanaan dan Pembiayaan Penelitian
+
+Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan penelitian terdapat pada standar Hasil penelitian(no. 1). Bisa dilihat di Bagian A untuk Indikator dan standar.
+
 ### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
+
+Dokumen Bukti :
+
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+
+Standar Penelitian Poltekpos Terdiri dari:
+
+1. Standar Hasil Penelitian
+2. Standar Isi Penelitian
+3. Standar Proses Penelitian
+4. Standar Penilaian Penelitian
+5. Standar Peneliti
+6. Standar Pengelolaan Penelitian
+7. Standar Sarana Prasarana Penelitian
+8. Standar Pendanaan dan Pembiayaan Penelitian
+
+Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme monitoring kesesuaian penelitian terdapat pada standar Proses dan Penilian penelitian(no. 3 dan 4). Bisa dilihat di Bagian A untuk Indikator dan standar.

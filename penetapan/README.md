@@ -106,14 +106,7 @@ Standar Penelitian Poltekpos Terdiri dari:
 7. Standar Sarana Prasarana Penelitian
 8. Standar Pendanaan dan Pembiayaan Penelitian
 
-Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan penelitian. 
-
-#### Standar Pengelolaan Penelitian
-
-| Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
-| ---------- | -------- | --------- | ------------- | --------------------- |
-|STD.27/POL_SPMI/2021| 1. Direktur, Wakil Direktur I, Ka. Program Studi dan Ka LPPM dan sekretaris LPPM melakukan perencanaan, pelaksanaan, pengendalian, pemantauan dan evaluasi serta pelaporan kegiatan penelitian agar tercapai kesesuaian kegiatan penelitian dengan rencana induk penelitian dan visi misi Poltekpos di setiap tahun pelaksanaan kegiatan penelitian. 2. Ka. LPPM menyusun rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar setiap tahun. 3. Ka. LPPM dan sekretaris LPPM Membantu memfasilitasi peneliti baik penelitian eksternal maupun internal menyampaikan hasil penelitian setiap tahun. 4. Ka LPPM dan sekretaris LPPM menyampaikan laporan kinerja penelitian melalui Simlitabmas setiap tahun. 5. Ka LPPM dan sekretaris LPPM menyusun panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian setiap tahun. | I7.7 | a. Terdapat dokumen rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar. b. Terdapat sistem untuk menyampaikan laporan penelitian melalui Simlitabmas dan Aptimas c. Terdapat laporan kinerja LPPM dalam menyelenggarakan program penelitian disampaikan melalui Simlitabmas untuk penelitian eksternal d. Memiliki panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian |IKU|
-{: .tablelines}
+Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan penelitian. Bisa dilihat di Bagian A untuk Indikator dan standar.
 
 ### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
 

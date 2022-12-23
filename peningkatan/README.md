@@ -8,9 +8,6 @@ Dokumen Bukti :
 
 Terlaksananya proses optimalisasi secara sangat efektif (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR disertai bukti yang sahih.
 
-
-
 | Kode      | Indikator | Keterlaksanaan | Ketercapaian | Tindaklanjut | Optimalisasi |
 | ---------- | -------- | --------- | ------------- | --------------------- |
 {: .tablelines}
-

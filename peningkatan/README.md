@@ -10,4 +10,9 @@ Terlaksananya proses optimalisasi secara sangat efektif (peningkatan, penyesuaia
 
 | Kode      | Indikator | Keterlaksanaan | Ketercapaian | Tindaklanjut | Optimalisasi |
 | ---------- | -------- | --------- | ------------- | --------------------- |
+|I7.1||||||
+|I7.2||||||
+|I7.3||||||
+|I7.4||||||
+|I7.5||||||
 {: .tablelines}

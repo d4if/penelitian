@@ -9,3 +9,9 @@ C.7 Penelitian
 - [EVALUASI](evaluasi/README.md)
 - [PENGENDALIAN](pengendalian/README.md)
 - [PENINGKATAN](peningkatan/README.md)
+
+## Daftar Singkatan
+
+- DTPR : Dosen Tetap Pengitung Rasio
+- IKU : Indikator Kinerja Utama
+- IKT : Indikator Kinerja Tambahan

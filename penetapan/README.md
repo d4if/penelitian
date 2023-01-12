@@ -112,21 +112,10 @@ Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan 
 
 | Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
 | ---------- | -------- | --------- | ------------- | --------------------- |
-|STD.15/POL_SPMI/2018|
-Ka. LPPM menyusun rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar setiap tahun.
-Ka. LPPM dan sekretaris LPPM Membantu memfasilitasi peneliti baik penelitian eksternal maupun internal menyampaikan hasil penelitian setiap tahun.
-Ka LPPM dan sekretaris LPPM menyampaikan laporan kinerja penelitian melalui Simlitabmas setiap tahun.
-Ka LPPM dan sekretaris LPPM menyusun panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian setiap tahun.
-|
-I7.7 
-|
-Terdapat dokumen rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar.
-Terdapat sistem untuk menyampaikan laporan penelitian melalui Simlitabmas dan Aptimas
-Terdapat laporan kinerja LPPM dalam menyelenggarakan program penelitian disampaikan melalui Simlitabmas untuk penelitian eksternal 
-Memiliki panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian
-|
-IKU
-|
+|STD.15/POL_SPMI/2018|Ka. LPPM menyusun rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar setiap tahun.|I7.7.1 |Terdapat dokumen rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar.|IKU|
+|STD.15/POL_SPMI/2018|Ka. LPPM dan sekretaris LPPM Membantu memfasilitasi peneliti baik penelitian eksternal maupun internal menyampaikan hasil penelitian setiap tahun.|I7.7.2 |Terdapat sistem untuk menyampaikan laporan penelitian melalui Simlitabmas dan Aptimas|IKU|
+|STD.15/POL_SPMI/2018|Ka LPPM dan sekretaris LPPM menyampaikan laporan kinerja penelitian melalui Simlitabmas setiap tahun.|I7.7.3 |Terdapat laporan kinerja LPPM dalam menyelenggarakan program penelitian disampaikan melalui Simlitabmas untuk penelitian eksternal |IKU|
+|STD.15/POL_SPMI/2018|Ka LPPM dan sekretaris LPPM menyusun panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian setiap tahun.|I7.7.4 |Memiliki panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian|IKU|
 {: .tablelines}
 
 

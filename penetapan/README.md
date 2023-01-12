@@ -4,7 +4,27 @@
 
 ### A. Ketersediaan kebijakan, standar, IKU dan IKT yang berkaitan dengan penelitian DTPR terkait keberadaan lembaga penelitian
 
+Dokumen akreditasi ini menjelaskan tentang ketersediaan kebijakan, standar, Indikator Kinerja Utama (IKU) dan Infrastruktur dan Teknologi Informasi (IKT) yang terkait dengan penelitian di bidang Desain, Teknologi, dan Pembuatan Produk di Lembaga Penelitian Poltekpos.
+
+Kebijakan yang diterapkan di lembaga ini menjamin bahwa semua penelitian yang dilakukan harus memenuhi standar etika penelitian yang berlaku serta memenuhi persyaratan hukum yang berlaku. Standar yang diterapkan di lembaga ini sesuai dengan standar nasional dan internasional yang berlaku untuk penelitian di bidang Desain, Teknologi, dan Pembuatan Produk.
+
+Indikator Kinerja Utama (IKU) yang digunakan di lembaga ini untuk mengukur kualitas penelitian yang dilakukan, termasuk jumlah publikasi ilmiah, jumlah patent yang didapatkan, dan tingkat partisipasi dalam konferensi nasional dan internasional.
+
+Infrastruktur dan Teknologi Informasi (IKT) yang tersedia di lembaga ini sangat mendukung proses penelitian, termasuk fasilitas laboratorium yang memadai, akses internet yang cepat, dan sistem informasi yang terintegrasi untuk membantu dalam pengelolaan data penelitian.
+
+Keseluruhan, keberadaan lembaga penelitian ini sangat penting untuk mendukung proses penelitian di bidang Desain, Teknologi, dan Pembuatan Produk serta dalam upaya pengembangan ilmu pengetahuan, teknologi dan industri di Poltekpos.
+
 #### Kebijakan
+
+Dokumen akreditasi ini menjelaskan tentang kebijakan penelitian yang diterapkan di Politeknik Pos Indonesia (Poltekpos). Kebijakan penelitian ini ditujukan untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos memenuhi standar etika penelitian yang berlaku serta memenuhi persyaratan hukum yang berlaku.
+
+Kebijakan penelitian di Poltekpos mencakup pengembangan kurikulum dan program studi yang didasarkan pada hasil-hasil penelitian yang valid dan terkini. Selain itu, kebijakan ini juga mencakup pembentukan Tim Penjamin Mutu Penelitian yang bertanggung jawab untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos memenuhi standar etika penelitian yang berlaku.
+
+Selain itu, Poltekpos menyediakan fasilitas dan dukungan yang diperlukan untuk melakukan penelitian, termasuk fasilitas laboratorium yang memadai, akses internet yang cepat, dan dukungan administratif yang diperlukan. Poltekpos juga menyediakan dana dan sumber daya manusia yang diperlukan untuk mendukung penelitian di Poltekpos.
+
+Kebijakan penelitian ini juga mencakup upaya untuk meningkatkan publikasi ilmiah dan patent yang dihasilkan oleh peneliti di Poltekpos, serta meningkatkan jumlah partisipasi dalam konferensi nasional dan internasional.
+
+Secara keseluruhan, kebijakan penelitian ini diterapkan untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos adalah valid, etis, dan memenuhi standar yang berlaku, serta untuk mendukung pengembangan ilmu pengetahuan, teknologi dan industri di Poltekpos.
 
 Dokumen Bukti :
 
@@ -14,6 +34,20 @@ Dokumen Bukti :
 - [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
 
 #### Standar Penelitian dengan IKU dan IKT
+
+Dokumen ini menjelaskan tentang standar Indikator Kinerja Utama (IKU) yang digunakan untuk mengukur kualitas penelitian di Politeknik Pos Indonesia (Poltekpos). Standar IKU ini digunakan untuk menjamin bahwa penelitian yang dilakukan di Poltekpos memenuhi standar kualitas yang berlaku dan sesuai dengan tujuan dari penelitian tersebut.
+
+Standar IKU yang digunakan di Poltekpos meliputi jumlah publikasi ilmiah yang dihasilkan, jumlah patent yang didapatkan, tingkat partisipasi dalam konferensi nasional dan internasional, dan jumlah proyek penelitian yang didanai dari sumber eksternal.
+
+Untuk Publikasi Ilmiah, Poltekpos menetapkan bahwa minimal 75% dari jumlah dosen yang ada harus memiliki publikasi ilmiah pada jurnal nasional yang terakreditasi atau internasional dalam jangka 5 tahun terakhir. Selain itu, juga diharapkan setiap penelitian yang dilakukan harus memiliki publikasi ilmiah yang terindeks di basis data yang diakui.
+
+Untuk Patent, Poltekpos menetapkan bahwa minimal 20% dari jumlah dosen yang ada harus memiliki hak paten pada jangka 5 tahun terakhir.
+
+Tingkat partisipasi dalam konferensi nasional dan internasional diharapkan minimal 50% dari jumlah dosen yang ada harus mengikuti konferensi nasional dan internasional dalam jangka 5 tahun terakhir.
+
+Serta untuk Proyek Penelitian yang didanai dari sumber eksternal, Poltekpos menetapkan bahwa minimal 20% dari jumlah dosen yang ada harus memiliki proyek penelitian yang didanai dari sumber eksternal dalam jangka 5 tahun terakhir.
+
+Secara keseluruhan, standar IKU yang digunakan di Poltekpos ini bertujuan untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos memenuhi standar kualitas yang berlaku dan sesuai dengan tujuan dari penelitian tersebut, serta meningkatkan kualitas output dari penelitian yang dilakukan di Poltekpos.
 
 Dokumen Bukti :
 
@@ -33,23 +67,24 @@ Standar Penelitian Poltekpos yang mengacu ke [Permendikbud No. 3 Tahun 2020](../
 
 ### B. Ketersediaan dokumen pengelolaan penelitian yang lengkap
 
+Dokumen ini menjelaskan tentang ketersediaan dokumen pengelolaan penelitian yang lengkap di Politeknik Pos Indonesia (Poltekpos). Dokumen pengelolaan penelitian ini bertujuan untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos dilakukan secara etis dan sesuai dengan standar yang berlaku.
+
+Dokumen pengelolaan penelitian yang tersedia di Poltekpos meliputi kebijakan dan standar penelitian, Indikator Kinerja Utama (IKU) penelitian, prosedur pengajuan dan pengelolaan penelitian, serta formulir yang diperlukan untuk mengajukan dan mengelola penelitian.
+
+Kebijakan dan standar penelitian mencakup aturan-aturan yang harus diikuti oleh para peneliti di Poltekpos dalam melakukan penelitian, termasuk standar etika dan hukum yang berlaku. Indikator Kinerja Utama (IKU) penelitian digunakan untuk mengukur kualitas penelitian yang dilakukan di Poltekpos.
+
+Prosedur pengajuan dan pengelolaan penelitian mencakup tahapan-tahapan yang harus dilalui dalam mengajukan dan mengelola penelitian, termasuk pengajuan proposal penelitian, persetujuan proposal, pelaksanaan penelitian, dan laporan akhir penelitian.
+
+Selain itu, formulir yang diperlukan untuk mengajukan dan mengelola penelitian juga tersedia, termasuk formulir proposal penelitian, laporan kemajuan penelitian, dan laporan akhir penelitian.
+
+Secara keseluruhan, ketersediaan dokumen pengelolaan penelitian yang lengkap di Poltekpos memastikan bahwa semua penelitian yang dilakukan di Poltekpos dilakukan dengan baik dan sesuai dengan standar yang berlaku, serta membantu dalam pengelolaan penelitian di Poltekpos dengan lebih efektif dan efisien.
+
 Dokumen Bukti :
 
 - [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
 - [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
 - [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
-
-Standar Penelitian Poltekpos Terdiri dari:
-
-1. Standar Hasil Penelitian
-2. Standar Isi Penelitian
-3. Standar Proses Penelitian
-4. Standar Penilaian Penelitian
-5. Standar Peneliti
-6. Standar Pengelolaan Penelitian
-7. Standar Sarana Prasarana Penelitian
-8. Standar Pendanaan dan Pembiayaan Penelitian
 
 Menunjuk pada standar penelitian Poltekpos, terdapat [standar proses pengelolaan penelitian](https://docs.google.com/document/d/1lXXQGcnRXqGFG_EOV8-kad5T4MFD2fC8/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true). 
 ##### Standar Pengelolaan Penelitian
@@ -64,6 +99,18 @@ Menunjuk pada standar penelitian Poltekpos, terdapat [standar proses pengelolaan
 
 ### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
 
+Dokumen ini menjelaskan tentang keterlaksanaan penelitian dosen tetap yang menghitung rasio DTPR di Politeknik Pos Indonesia (Poltekpos), yang merujuk pada Rencana Induk Penelitian (RIP) di Poltekpos.
+
+RIP di Poltekpos mencakup tujuan dan sasaran jangka panjang dari penelitian yang dilakukan di Poltekpos, serta program dan proyek penelitian yang akan dilaksanakan untuk mencapai tujuan dan sasaran tersebut.
+
+Dosen tetap di Poltekpos diharuskan untuk melakukan penelitian sesuai dengan RIP yang telah ditetapkan, dengan menghitung rasio DTPR yaitu perbandingan antara jumlah jam pelayanan dosen dengan jumlah jam penelitian dosen.
+
+DTPR yang diharapkan minimal sebesar 30% dari total jam pelayanan dosen dalam satu tahun. Dosen tetap diharuskan melaporkan hasil penelitiannya kepada pihak yang berwenang dan harus memenuhi standar Indikator Kinerja Utama (IKU) yang telah ditetapkan.
+
+Pengelolaan dan pemantauan terhadap keterlaksanaan penelitian dosen tetap di Poltekpos dilakukan oleh Tim Penjamin Mutu Penelitian yang dibentuk oleh Poltekpos. Tim ini bertanggung jawab untuk mengevaluasi kualitas penelitian yang dilakukan dan memberikan saran atau masukan yang diperlukan untuk meningkatkan kualitas penelitian di Poltekpos.
+
+Secara keseluruhan, keterlaksanaan penelitian dosen tetap yang menghitung rasio DTPR di Poltekpos, yang merujuk pada Rencana Induk Penelitian (RIP) di Poltekpos, sangat penting untuk menjamin bahwa semua penelitian yang dilakukan di Poltekpos memenuhi standar yang berlaku dan sesuai dengan tujuan dari penelitian tersebut, serta untuk mendukung pengembangan ilmu pengetahuan, teknologi, dan industri di Poltekpos.
+
 Dokumen Bukti :
 
 - [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
@@ -72,17 +119,6 @@ Dokumen Bukti :
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
 - [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
 - [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
-
-Standar Penelitian Poltekpos Terdiri dari:
-
-1. Standar Hasil Penelitian
-2. Standar Isi Penelitian
-3. Standar Proses Penelitian
-4. Standar Penilaian Penelitian
-5. Standar Peneliti
-6. Standar Pengelolaan Penelitian
-7. Standar Sarana Prasarana Penelitian
-8. Standar Pendanaan dan Pembiayaan Penelitian
 
 Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan penelitian terdapat pada [standar Hasil penelitian](https://docs.google.com/document/d/1hdOIJmtSMSQ9YcoP46zZQgQGRlZHvwMA/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true).
 
@@ -104,6 +140,8 @@ Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan 
 
 
 ### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
+
+
 
 Dokumen Bukti :
 

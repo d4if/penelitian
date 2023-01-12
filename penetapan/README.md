@@ -8,7 +8,7 @@
 
 Dokumen Bukti :
 
-- [SK Pendirian LPPM Poltekpos](../standar/sk.pdf) BELUM ADA
+- [Statuta Pendirian LPPM Poltekpos](../dokumen/statuta.pdf)
 - [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
 - [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
 

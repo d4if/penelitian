@@ -187,9 +187,6 @@ Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme monitoring k
 
 | Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
 | ---------- | -------- | --------- | ------------- | --------------------- |
-| STD.11/POL_SPMI/2018 | 
-
-
 | STD.11/POL_SPMI/2018 | Kegiatan penelitian yang dikelola di unit LPPM merupakan kegiatan yang memenuhi kaidah dan metode ilmiah secara sistematis sesuai dengan otonomi keilmuan dan budaya akademik.|I7.3|Terdapat lembaga penelitian yang mengelola penelitian dan menyediakan dokumen formal Rencana Strategis Penelitian yang memuat  peta jalan penelitian, rencana program, kegiatan dan indikator setiap tahun.|IKU|
 | STD.11/POL_SPMI/2018 | Kegiatan penelitian yang dikelola unit LPPM mempertimbangkan standar mutu, keselamatan kerja, kesehatan, kenyamanan, serta keamanan peneliti, masyarakat, dan lingkungan.|I7.3|Terdapat panduan penelitian dosen.|IKU|
 | STD.11/POL_SPMI/2018 | Kegiatan penelitian yang dilakukan oleh mahasiswa dalam rangka melaksanakan tugas akhir, skripsi, tesis, atau disertasi harus memenuhi ketentuan penelitian, capaian pembelajaran lulusan, dan ketentuan peraturan di perguruan tinggi yang dinyatakan dalam besaran sks.|I7.3|Terdapat panduan penelitian mahasiswa tugas akhir atau skripsi.|IKU|

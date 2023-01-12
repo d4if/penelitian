@@ -107,7 +107,7 @@ Standar Penelitian Poltekpos Terdiri dari:
 7. Standar Sarana Prasarana Penelitian
 8. Standar Pendanaan dan Pembiayaan Penelitian
 
-Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan penelitian. 
+Menunjuk pada standar penelitian Poltekpos, terdapat [standar proses pengelolaan penelitian](https://docs.google.com/document/d/1lXXQGcnRXqGFG_EOV8-kad5T4MFD2fC8/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true). 
 ##### Standar Pengelolaan Penelitian
 
 | Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
@@ -140,7 +140,24 @@ Standar Penelitian Poltekpos Terdiri dari:
 7. Standar Sarana Prasarana Penelitian
 8. Standar Pendanaan dan Pembiayaan Penelitian
 
-Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan penelitian terdapat pada standar Hasil penelitian(no. 1). Bisa dilihat di Bagian A untuk Indikator dan standar.
+Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan penelitian terdapat pada [standar Hasil penelitian](https://docs.google.com/document/d/1hdOIJmtSMSQ9YcoP46zZQgQGRlZHvwMA/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true).
+
+##### Standar Hasil Penelitian
+
+| Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
+| ---------- | -------- | --------- | ------------- | --------------------- |
+| STD.09/POL_SPMI/2018 | Dosen  dan/atau mahasiswa menghasilkan penelitian yang mengarah pada pengembangan ilmu pengetahuan dan teknologi, serta meningkatkan kesejahteraan masyarakat dan daya saing bangsa sesuai dengan Road map penelitian PT | I7.1.1 |Terdapat proses monitoring dan evaluasi  kesesuaian penelitian dengan road map penelitian PT|IKU|
+| STD.09/POL_SPMI/2018 | Dosen  dan/atau mahasiswa dalam melaksanakan penelitian harus menghasilkan luaran yang memenuhi kaidah dan metode ilmiah secara sistematis sesuai otonomi keilmuan dan budaya akademik pada setiap judul penelitian.| I7.1.2 |Dosen dan/ atau  bersama mahasiswa melakukan penelitian minimal 1 penelitian per tahun|IKU|
+| STD.09/POL_SPMI/2018 | Dosen  dan/atau mahasiswa harus melaksanakan penelitian yang mengarah pada terpenuhinya capaian pembelajaran lulusan serta memenuhi ketentuan dan peraturan di perguruan tinggi pada setiap tema penelitian.| I7.1.3 |Rata-rata jumlah penelitian yang dilakukan dosen dan/ atau  bersama mahasiswa minimal 40 % dari jumlah dosen |IKU|
+| STD.09/POL_SPMI/2018 | Dosen  dan/atau mahasiswa dalam pelaksanaan penelitian yang hasilnya tidak bersifat rahasia,    tidak    mengganggu    dan/atau    tidak    membahayakan kepentingan umum atau nasional wajib disebarluaskan | I7.1.4 |Hasil akhir setiap penelitian harus disertai luaran berupa artikel ilmiah atau poster |IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.5 |Hasil penelitian dosen yang diintegrasikan dalam pembelajaran minimal 2 mata kuliah per tahun|IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.6 |Hasil penelitian mahasiswa harus dirancanng untuk memenuhi capaian pembelajaran lulusan|IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.7|Jumlah publikasi penelitian pada jurnal nasional masing-masing dosen 1 per tahun|IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.8 |Jumlah publikasi penelitian pada jurnal nasional terakreditasi minimal 25 % dari jumlah dosen |IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.9 |Jumlah publikasi penelitian pada jurnal internasional bereputasi minimal 10% dari jumlah dosen|IKU|
+| STD.09/POL_SPMI/2018 | | I7.1.10 |Jumlah penelitian yang mendapatkan HKI minimal 25 % dari jumlah dosen |IKU|
+
+
 
 ### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
 

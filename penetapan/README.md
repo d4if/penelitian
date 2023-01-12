@@ -141,7 +141,17 @@ Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan 
 
 ### D. Keterlaksanaan monitoring kesesuaian penelitian DTPR untuk perbaikan relevansi penelitian dan pengembangan keilmuan PS
 
+Dokumen ini menjelaskan tentang keterlaksanaan monitoring kesesuaian penelitian DTPR (Dosen Tetap Penghitung Rasio) untuk perbaikan relevansi penelitian dan pengembangan keilmuan Program Studi D4 Teknik Informatika di Politeknik Pos Indonesia (Poltekpos).
 
+Monitoring kesesuaian penelitian DTPR dilakukan untuk memastikan bahwa penelitian yang dilakukan oleh dosen tetap di Program Studi D4 Teknik Informatika sesuai dengan Rencana Induk Penelitian (RIP) yang telah ditetapkan oleh Poltekpos, serta sesuai dengan standar Indikator Kinerja Utama (IKU) yang ditetapkan.
+
+Monitoring dilakukan secara berkala, dengan melakukan evaluasi terhadap penelitian yang dilakukan oleh dosen tetap di Program Studi D4 Teknik Informatika. Evaluasi ini meliputi analisis terhadap kualitas penelitian, relevansi penelitian dengan bidang keilmuan dan perkembangan teknologi, serta kesesuaian dengan standar IKU yang ditetapkan.
+
+Hasil evaluasi ini kemudian digunakan sebagai dasar untuk mengambil tindakan perbaikan, termasuk memberikan saran dan masukan kepada dosen tetap untuk meningkatkan kualitas dan relevansi penelitian yang dilakukan.
+
+Selain itu, Poltekpos juga menyediakan dukungan untuk pengembangan keilmuan dosen tetap di Program Studi D4 Teknik Informatika, termasuk dengan menyediakan dana dan fasilitas untuk pelatihan dan workshop, serta memberikan kesempatan untuk mengikuti konferensi nasional dan internasional.
+
+Secara keseluruhan, keterlaksanaan monitoring kesesuaian penelitian DTPR di Program Studi D4 Teknik Informatika di Poltekpos sangat penting untuk memastikan bahwa penelitian yang dilakukan sesuai dengan standar yang berlaku dan relevan dengan perkembangan keilmuan dan teknologi, serta untuk mendukung pengembangan ilmu pengetahuan dan teknologi di Program Studi D4 Teknik Informatika di Poltekpos.
 
 Dokumen Bukti :
 
@@ -151,17 +161,6 @@ Dokumen Bukti :
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
 - [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
 - [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
-
-Standar Penelitian Poltekpos Terdiri dari:
-
-1. Standar Hasil Penelitian
-2. Standar Isi Penelitian
-3. Standar Proses Penelitian
-4. Standar Penilaian Penelitian
-5. Standar Peneliti
-6. Standar Pengelolaan Penelitian
-7. Standar Sarana Prasarana Penelitian
-8. Standar Pendanaan dan Pembiayaan Penelitian
 
 Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme monitoring kesesuaian penelitian terdapat pada [standar Proses](https://docs.google.com/document/d/1M9a-jdtV4LTIp3a4e4ZNHQ7JIQj3qf1I/edit?usp=sharing&ouid=101355051459571992089&rtpof=true&sd=true) dan [Penilian penelitian]().
 

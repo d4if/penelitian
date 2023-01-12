@@ -17,6 +17,16 @@ Secara keseluruhan, keterlaksanaan kebijakan dan standar terkait penelitian DTPR
 
 ### A. Keterlaksanaan proses pengelolaan lembaga penelitian DTPR terkait proses pengelolaan lembaga penelitian DTPR
 
+Dokumen ini menjelaskan tentang keterlaksanaan proses pengelolaan lembaga penelitian DTPR (Dosen Tetap Penghitung Rasio) terkait proses pengelolaan lembaga penelitian DTPR Program Studi D4 Teknik Informatika di Politeknik Pos Indonesia (Poltekpos).
+
+Proses pengelolaan lembaga penelitian DTPR di Poltekpos mencakup beberapa tahap, yaitu pengajuan proposal penelitian, persetujuan proposal, pelaksanaan penelitian, dan laporan akhir penelitian. Semua tahap ini dilakukan sesuai dengan prosedur yang telah ditetapkan oleh Poltekpos.
+
+Setiap DTPR diharuskan untuk mengajukan proposal penelitian kepada pihak yang berwenang untuk ditelaah dan disetujui. Proposal yang disetujui kemudian dilaksanakan dengan mengikuti standar Indikator Kinerja Utama (IKU) yang telah ditetapkan. Selama pelaksanaan penelitian, DTPR harus melaporkan kemajuan penelitian secara berkala.
+
+Setelah selesai, DTPR harus menyelesaikan penelitian dengan menyusun laporan akhir dan menyampaikan laporan tersebut kepada pihak yang berwenang. Laporan akhir akan ditelaah dan divalidasi untuk memastikan bahwa hasil penelitian memenuhi standar yang ditetapkan.
+
+Lembaga penelitian Program Studi D4 Teknik Informatika di Poltekpos di bawah koordinasi dan pengawasan dari tim penjamin mutu penelitian yang dibentuk oleh Poltekpos. 
+
 Dokumen Bukti :
 
 - [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
@@ -35,6 +45,16 @@ Dalam pelaksanaan penelitian di Poltekpos, terdapat 2 bagian utama komponen pend
 Proses pengelolaan yang dilakukan oleh LPPM berada di website RPIKK, untk pelaksanaan penelitian bisa dilihat di website if prodi dan IRC. IRC untuk pengembangan Kelompok keahlian dan penerapan keilmuan di Industri dan masyarakat. Standar penelitian mengacu pada Standar Penelitian Poltekpos dengan RIP tahun berjalan.
 
 ### B. Keterlaksanaan pengelolaan penelitian dengan dokumen yang lengkap
+
+Dokumen ini menjelaskan tentang keterlaksanaan pengelolaan penelitian di Program Studi D4 Teknik Informatika di Politeknik Pos Indonesia (Poltekpos) dengan menggunakan dokumen yang lengkap.
+
+Pengelolaan penelitian di Poltekpos dilakukan dengan menggunakan beragam dokumen yang lengkap, seperti proposal penelitian, laporan kemajuan, dan laporan akhir penelitian. Semua dokumen ini diperlukan untuk mengajukan, mengelola dan menyelesaikan penelitian yang dilakukan oleh DTPR (Dosen Tetap Penghitung Rasio) di D4TI.
+
+Ketersediaan dokumen yang lengkap membantu pengelolaan penelitian menjadi lebih efektif dan efisien. Hal ini karena dokumen yang lengkap akan memudahkan dalam hal pengajuan dan persetujuan proposal penelitian, pelaksanaan penelitian, hingga penyusunan laporan akhir penelitian.
+
+Selain itu, dokumen yang lengkap juga memudahkan dalam proses monitoring dan evaluasi penelitian yang dilakukan oleh Tim Penjamin Mutu Penelitian yang dibentuk oleh Poltekpos. Tim ini dapat mengevaluasi kualitas penelitian yang dilakukan dengan lebih efektif dan memberikan saran atau masukan yang diperlukan untuk meningkatkan kualitas penelitian di D4TI.
+
+Secara keseluruhan, keterlaksanaan pengelolaan penelitian dengan dokumen yang lengkap di D4TI Poltekpos sangat penting untuk memastikan bahwa semua penelitian yang dilakukan memenuhi standar yang berlaku dan sesuai dengan tujuan dari penelitian tersebut, serta untuk mendukung pengembangan ilmu pengetahuan dan teknologi di D4TI Poltekpos.
 
 Dokumen Bukti :
 

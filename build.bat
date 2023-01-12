@@ -1,0 +1,1 @@
+pandoc -o output.docx -f markdown -t docx README.md ./penetapan/README.md ./pelaksanaan/README.md ./evaluasi/README.md ./pengendalian/README.md ./peningkatan/README.md

@@ -87,6 +87,7 @@ Dokumen Bukti :
 - [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
 
 Menunjuk pada standar penelitian Poltekpos, terdapat [standar proses pengelolaan penelitian](https://docs.google.com/document/d/1lXXQGcnRXqGFG_EOV8-kad5T4MFD2fC8/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true). 
+
 ##### Standar Pengelolaan Penelitian
 
 | Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |

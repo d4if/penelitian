@@ -9,6 +9,7 @@
 Dokumen Bukti :
 
 - [Statuta Pendirian LPPM Poltekpos](../dokumen/statuta.pdf)
+- [SOTK Poltekpos Yayasan](../dokumen/SOTKPoltekpos2018.pdf)
 - [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
 - [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
 
@@ -19,7 +20,7 @@ Dokumen Bukti :
 - [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
 - [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
 
-Standar Penelitian Poltekpos Terdiri dari:
+Standar Penelitian Poltekpos yang mengacu ke [Permendikbud No. 3 Tahun 2020](../dokumen/uu/Permendikbud-Nomor-3-Tahun-2020.pdf) Terdiri dari:
 
 1. Standar Hasil Penelitian
 2. Standar Isi Penelitian
@@ -106,7 +107,28 @@ Standar Penelitian Poltekpos Terdiri dari:
 7. Standar Sarana Prasarana Penelitian
 8. Standar Pendanaan dan Pembiayaan Penelitian
 
-Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan penelitian. Bisa dilihat di Bagian A untuk Indikator dan standar.
+Menunjuk pada standar penelitian Poltekpos, terdapat standar proses pengelolaan penelitian. 
+##### Standar Pengelolaan Penelitian
+
+| Kode STD      | Pernyataan Standar | Kode Indikator | Indikator | IKU/IKT |
+| ---------- | -------- | --------- | ------------- | --------------------- |
+|STD.15/POL_SPMI/2018|
+Ka. LPPM menyusun rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar setiap tahun.
+Ka. LPPM dan sekretaris LPPM Membantu memfasilitasi peneliti baik penelitian eksternal maupun internal menyampaikan hasil penelitian setiap tahun.
+Ka LPPM dan sekretaris LPPM menyampaikan laporan kinerja penelitian melalui Simlitabmas setiap tahun.
+Ka LPPM dan sekretaris LPPM menyusun panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian setiap tahun.
+|
+I7.7 
+|
+Terdapat dokumen rencana strategis penelitian yang menyangkut aspek peningkatan jumlah publikasi ilmiah, penemuan baru di bidang ilmu pengetahuan dan teknologi, dan jumlah dan mutu bahan ajar.
+Terdapat sistem untuk menyampaikan laporan penelitian melalui Simlitabmas dan Aptimas
+Terdapat laporan kinerja LPPM dalam menyelenggarakan program penelitian disampaikan melalui Simlitabmas untuk penelitian eksternal 
+Memiliki panduan tentang kriteria peneliti dengan mengacu pada standar hasil, standar isi, dan standar proses Penelitian
+|
+IKU
+|
+{: .tablelines}
+
 
 ### C. Keterlaksanaan penelitian DTPR yang merujuk pada RIP
 

@@ -15,4 +15,3 @@ Terlaksananya proses optimalisasi secara sangat efektif (peningkatan, penyesuaia
 |I7.3||||||
 |I7.4||||||
 |I7.5||||||
-{: .tablelines}

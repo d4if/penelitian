@@ -2,6 +2,19 @@
 
 ## 7.2 [PELAKSANAAN] Keterlaksanaan kebijakan dan standar terkait penelitian DTPR
 
+Dokumen ini menjelaskan tentang keterlaksanaan kebijakan dan standar yang terkait dengan penelitian DTPR (Dosen Tetap Penghitung Rasio) di Politeknik Pos Indonesia (Poltekpos).
+Kebijakan dan standar terkait penelitian DTPR ditetapkan untuk menjamin bahwa penelitian yang dilakukan oleh dosen tetap di Poltekpos memenuhi standar etika dan hukum yang berlaku, serta sesuai dengan tujuan dari penelitian tersebut.
+
+Kebijakan penelitian DTPR di Poltekpos meliputi peraturan tentang jumlah waktu yang harus di alokasikan untuk penelitian dosen tetap, standar Indikator Kinerja Utama (IKU) yang harus dicapai dalam penelitian, serta prosedur pengajuan, persetujuan, pelaksanaan dan pelaporan hasil penelitian.
+
+Kebijakan ini juga mencakup tata cara pengelolaan dana dan fasilitas yang diberikan kepada dosen tetap untuk menunjang penelitian yang dilakukan.
+
+Standar yang ditetapkan juga meliputi publikasi ilmiah dosen, patent yang diperoleh, partisipasi dalam konferensi ilmiah, dan proyek penelitian yang didanai dari sumber eksternal.
+
+Kebijakan dan standar terkait penelitian DTPR di Poltekpos diawasi oleh Tim Penjamin Mutu Penelitian yang bertugas mengevaluasi kualitas dan kesesuaian penelitian yang dilakukan oleh dosen tetap di Poltekpos. Tim ini juga bertugas memberikan saran dan masukan untuk perbaikan jika diperlukan.
+
+Secara keseluruhan, keterlaksanaan kebijakan dan standar terkait penelitian DTPR di Poltekpos sangat penting untuk menjamin bahwa penelitian yang dilakukan sesuai.
+
 ### A. Keterlaksanaan proses pengelolaan lembaga penelitian DTPR terkait proses pengelolaan lembaga penelitian DTPR
 
 Dokumen Bukti :

@@ -28,10 +28,10 @@ Secara keseluruhan, kebijakan penelitian ini diterapkan untuk menjamin bahwa sem
 
 Dokumen Bukti :
 
-- [Statuta Pendirian LPPM Poltekpos](../dokumen/statuta.pdf)
-- [SOTK Poltekpos Yayasan](../dokumen/SOTKPoltekpos2018.pdf)
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
+- [Statuta Pendirian LPPM Poltekpos](https://github.com/d4if/penelitian/blob/main/dokumen/statuta.pdf)
+- [SOTK Poltekpos Yayasan](https://github.com/d4if/penelitian/blob/main/dokumen/SOTKPoltekpos2018.pdf)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 
 #### Standar Penelitian dengan IKU dan IKT
 
@@ -51,10 +51,10 @@ Secara keseluruhan, standar IKU yang digunakan di Poltekpos ini bertujuan untuk 
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
 
-Standar Penelitian Poltekpos yang mengacu ke [Permendikbud No. 3 Tahun 2020](../dokumen/uu/Permendikbud-Nomor-3-Tahun-2020.pdf) Terdiri dari:
+Standar Penelitian Poltekpos yang mengacu ke [Permendikbud No. 3 Tahun 2020](https://github.com/d4if/penelitian/blob/main/dokumen/uu/Permendikbud-Nomor-3-Tahun-2020.pdf) Terdiri dari:
 
 1. Standar Hasil Penelitian
 2. Standar Isi Penelitian
@@ -81,10 +81,10 @@ Secara keseluruhan, ketersediaan dokumen pengelolaan penelitian yang lengkap di 
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
-- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
-- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
 
 Menunjuk pada standar penelitian Poltekpos, terdapat [standar proses pengelolaan penelitian](https://docs.google.com/document/d/1lXXQGcnRXqGFG_EOV8-kad5T4MFD2fC8/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true). 
 
@@ -114,12 +114,12 @@ Secara keseluruhan, keterlaksanaan penelitian dosen tetap yang menghitung rasio 
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
-- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
-- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 
 Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme pelaksanaan penelitian terdapat pada [standar Hasil penelitian](https://docs.google.com/document/d/1hdOIJmtSMSQ9YcoP46zZQgQGRlZHvwMA/edit?usp=sharing&ouid=115759852080945209739&rtpof=true&sd=true).
 
@@ -156,12 +156,12 @@ Secara keseluruhan, keterlaksanaan monitoring kesesuaian penelitian DTPR di Prog
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
-- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
-- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 
 Merujuk pada standar penelitian Poltekpos, Keterlaksanaan mekanisme monitoring kesesuaian penelitian terdapat pada [standar Proses](https://docs.google.com/document/d/1M9a-jdtV4LTIp3a4e4ZNHQ7JIQj3qf1I/edit?usp=sharing&ouid=101355051459571992089&rtpof=true&sd=true) dan [Penilian penelitian]().
 

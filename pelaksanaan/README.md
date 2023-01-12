@@ -29,12 +29,12 @@ Lembaga penelitian Program Studi D4 Teknik Informatika di Poltekpos di bawah koo
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
-- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
-- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 - [Dokumentasi Proses Pengelolaan](https://direktorat.rpikk.ulbi.ac.id/)
 - [Penerapan keilmuan](https://irc.ulbi.ac.id/)
 - [Dokumentasi Prodi](https://if.ulbi.ac.id/)
@@ -58,12 +58,12 @@ Secara keseluruhan, keterlaksanaan pengelolaan penelitian dengan dokumen yang le
 
 Dokumen Bukti :
 
-- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](../standar/frontmatters.pdf)
-- [Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
-- [SOP Penelitian Eksternal](../dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
-- [SOP Penelitian Internal](../dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
+- [SK Penyelarasan Antara Kriteria Akreditasi dengan SN Dikti](https://github.com/d4if/penelitian/blob/main/standar/frontmatters.pdf)
+- [Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
+- [SOP Penelitian Eksternal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.34-LPPM_SOP%20Penelitian%20Eksternal_Final_2019.doc)
+- [SOP Penelitian Internal](https://github.com/d4if/penelitian/blob/main/dokumen/sop/2018/SOP.35-LPPM_SOP%20Penelitian%20Internal_Final_2019.doc)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 - [Dokumentasi Proses Pengelolaan](https://direktorat.rpikk.ulbi.ac.id/)
 - [Penerapan keilmuan](https://irc.ulbi.ac.id/)
 - [Dokumentasi Prodi](https://if.ulbi.ac.id/)
@@ -83,17 +83,17 @@ Tata pelaksanaan pengelolaan dan penilitian bisa dilihat pada laman web LPPM yan
 
 Dokumen Bukti :
 
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
-- [Pelaksanaan Penelitian 2014](../dokumen/pelaksanaan/2014.html)
-- [Pelaksanaan Penelitian 2015](../dokumen/pelaksanaan/2015.html)
-- [Pelaksanaan Penelitian 2016](../dokumen/pelaksanaan/2016.html)
-- [Pelaksanaan Penelitian 2017](../dokumen/pelaksanaan/2017.html)
-- [Pelaksanaan Penelitian 2018](../dokumen/pelaksanaan/2018.html)
-- [Pelaksanaan Penelitian 2019](../dokumen/pelaksanaan/2019.html)
-- [Pelaksanaan Penelitian 2020](../dokumen/pelaksanaan/2020.html)
-- [Pelaksanaan Penelitian 2021](../dokumen/pelaksanaan/2021.html)
-- [Pelaksanaan Penelitian 2022](../dokumen/pelaksanaan/2022.html)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
+- [Pelaksanaan Penelitian 2014](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2014.html)
+- [Pelaksanaan Penelitian 2015](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2015.html)
+- [Pelaksanaan Penelitian 2016](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2016.html)
+- [Pelaksanaan Penelitian 2017](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2017.html)
+- [Pelaksanaan Penelitian 2018](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2018.html)
+- [Pelaksanaan Penelitian 2019](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2019.html)
+- [Pelaksanaan Penelitian 2020](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2020.html)
+- [Pelaksanaan Penelitian 2021](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2021.html)
+- [Pelaksanaan Penelitian 2022](https://github.com/d4if/penelitian/blob/main/dokumen/pelaksanaan/2022.html)
 
 Untuk mendukung tercapainya Visi dan Misi IPTEK Nasional 2025; tercapainya Visi, Misi dan Tujuan Penelitian di Poltekpos, serta berdasarkan hasil analisa Evaluasi Diri dan SWOT, penelitian di Poltekpos ditargetkan untuk mencapai sasaran-sasaran berikut ini, yaitu:
 
@@ -113,10 +113,10 @@ Peneitian sudah dilaksanaan sesuai dengan agenda Rencana Induk penelitian. Dokum
 
 Dokumen Bukti :
 
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
-- [Hasil Monev Kesesuian dengan RIP](../dokumen/RIP2021-2025.pdf)
-- [Hasil evaluasi untuk relevansi penelitian dan pengembangan keilmuan Program Studi](../dokumen/RIP2021-2025.pdf)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
+- [Hasil Monev Kesesuian dengan RIP](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
+- [Hasil evaluasi untuk relevansi penelitian dan pengembangan keilmuan Program Studi](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 
 LPPM Poltekpos melakukan monitoring dan evaluasi internal pada setiap kegiatan penelitian baik yang didanai secara eksternal maupun internal. Tata cara dan mekanisme pelaksanaan monitoring dan evaluasi dilakukan melalui beberapa tahapan kegiatan, antara lain: rekrutmen evaluator, pelaksanaan proses evaluasi, pelaporan dan tindak lanjut hasil monitoring dan evaluasi (monev). Rekruitment evaluator dilakukan berdasarkan data kelayakan masingmasing personal yang ditunjuk sebagai evaluator terhadap kegiatan penelitian yang akan di monitoring. Tim evaluator yang terpilih selanjutnya ditetapkan dengan Surat Tugas Ketua LPPM -Poltekpos.
 Pelaksanaan kegiatan monev penelitian ditetapkan pada jadwal kegiatan penelitian. Proses monev dilaksanakan melalui kegiatan wawancara dengan tim peneliti serta mengunjungi tempat pelaksanaan penelitian. Pemeriksaan oleh tim monev dilakukan terhadap log book penelitian, bukti kegiatan penelitian, dokumentasi, pemeriksaan data-data penelitian, dan sebagainya. Tim monitoring akan ngevaluasi pelaksanaan penelitian, dengan mengisi berita acara monitoring. Selanjutnya hasil evaluasi dan monitoring akan dilaporkan kepada Ketua LPPM Poltekpos dan lembaga pemberi dana. Hasil proses monitoring dan evaluasi internal tersebut akan menentukan kelanjutan pelaksanaan penelitian. Bagi peneliti yang digugurkan pelaksanaan penelitiannya akibat kelalaian tim peneliti, maka tim peneliti tersebut bertanggung jawab untuk mengembalikan biaya penelitian yang telah diberikan.

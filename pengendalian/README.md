@@ -4,9 +4,9 @@
 
 Dokumen Bukti :
 
-- [Rencana Induk Penelitian 2016-2020](../dokumen/RIP2016-2020.pdf)
-- [Rencana Induk Penelitian 2021-2025](../dokumen/RIP2021-2025.pdf)
-- [Hasil Revisi dan Rekomendasi terhadap hasil evaluasi ketercapaian standar penelitian DTPR](../dokumen/RIP2021-2025.pdf)
+- [Rencana Induk Penelitian 2016-2020](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2016-2020.pdf)
+- [Rencana Induk Penelitian 2021-2025](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
+- [Hasil Revisi dan Rekomendasi terhadap hasil evaluasi ketercapaian standar penelitian DTPR](https://github.com/d4if/penelitian/blob/main/dokumen/RIP2021-2025.pdf)
 
 Indikator Kinerja Utama
 

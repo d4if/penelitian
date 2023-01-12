@@ -4,7 +4,7 @@
 
 Dokumen Bukti :
 
-- [Dokumentasi Proses Optimalisasi Standar Penelitian Poltekpos](../standar/standarpenelitian.pdf)
+- [Dokumentasi Proses Optimalisasi Standar Penelitian Poltekpos](https://github.com/d4if/penelitian/blob/main/standar/standarpenelitian.pdf)
 
 Terlaksananya proses optimalisasi secara sangat efektif (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR disertai bukti yang sahih.
 
